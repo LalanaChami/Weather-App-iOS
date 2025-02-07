@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "patchyFreezingDrizzlePossibleBackground.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "patchyFreezingDrizzlePossibleBackground 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "patchyFreezingDrizzlePossibleBackground 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
