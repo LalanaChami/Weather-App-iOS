@@ -2,6 +2,8 @@
 
 WeatherApp is a simple weather application built using UIKit in Swift. It fetches weather data from an API and displays the current weather conditions for a specified location.
 
+![Demo](./demo.gif)
+
 ## Features
 
 - Displays current temperature in Celsius or Fahrenheit.
